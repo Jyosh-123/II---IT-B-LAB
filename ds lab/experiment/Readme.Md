@@ -20,5 +20,5 @@ we didnot found any element which matches with the key element throughout the ar
 
 #### output obtained
 
-![Test Image1](ls wor 1.png)
-![Test Image2](ls wor-2 1.png)
+![output 1](ls wor 1.png)
+![output 2](ls wor-2 1.png)
