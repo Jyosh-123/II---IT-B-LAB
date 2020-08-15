@@ -22,3 +22,6 @@ we didnot found any element which matches with the key element throughout the ar
 
 ![output 1](ls wor 1.png)
 ![output 2](ls wor-2 1.png)
+
+![ls wor 1](https://user-images.githubusercontent.com/69143816/90306937-b5fc9200-deef-11ea-920c-2702bc8f366c.png)
+![ls wor-2 1](https://user-images.githubusercontent.com/69143816/90306949-cdd41600-deef-11ea-9915-f0b9bd1d37f6.png)
