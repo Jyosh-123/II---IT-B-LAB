@@ -38,3 +38,6 @@
      ![output-2](bs wr-2 3)
      ![output-3](bs wr-3 3)
      
+![bs wr-1 3](https://user-images.githubusercontent.com/69143816/90309103-dc77f880-df02-11ea-9b0c-eeac71b18513.png)
+![bs wr-2 3](https://user-images.githubusercontent.com/69143816/90309107-e1d54300-df02-11ea-83a2-8b3604841556.png)
+![bs wr-3 3](https://user-images.githubusercontent.com/69143816/90309110-e568ca00-df02-11ea-93d6-28643dceab6d.png)
