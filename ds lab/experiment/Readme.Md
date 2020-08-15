@@ -18,3 +18,7 @@ output-2(key element = 0):
 we check each element of the given array against the given key element = 0
 we didnot found any element which matches with the key element throughout the array.hence the search ends here.the search is unsuccessful as the element not found here.hence it displays that the element is not found.
 
+#### output obtained
+
+![Test Image1](ls wor 1.png)
+![Test Image2](ls wor-2 1.png)
