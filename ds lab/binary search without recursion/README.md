@@ -37,3 +37,9 @@
      ![output-1](bs wor -1 2)
      ![output-2](bs wor -2 2)
      ![output-3](bs wor 2)
+     
+     
+ ![bs wor -1 2](https://user-images.githubusercontent.com/69143816/90308778-0f6cbd00-df00-11ea-87f3-3ac1b50f16ed.png)
+![bs wor -2 2](https://user-images.githubusercontent.com/69143816/90308780-13004400-df00-11ea-9cf0-d75e2c1ff5c1.png)
+![bs wor 2](https://user-images.githubusercontent.com/69143816/90308784-14ca0780-df00-11ea-82fa-a135ce8f69ba.png)
+
