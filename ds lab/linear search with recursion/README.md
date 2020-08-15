@@ -1,6 +1,6 @@
-#AIM OF THE EXPERIMENT : finding a element in array using  linear search with recursion.
+# AIM OF THE EXPERIMENT : finding a element in array using  linear search with recursion.
 
-##DESCRIPTION : Linear search is to find whether an elementis present in array or not.if it present then at what location.
+## DESCRIPTION : Linear search is to find whether an elementis present in array or not.if it present then at what location.
 
 ### STEP BY STEP PROCEDURE:
     OUTPUT 1:
