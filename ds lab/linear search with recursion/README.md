@@ -23,4 +23,5 @@
       
   #### OUTPUT OBTAINED
   
-  ![output-1](
+  ![output-1](ls wr-1 4.png)
+  ![output-2](ls wr-2 4.png)
