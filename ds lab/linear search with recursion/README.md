@@ -25,3 +25,6 @@
   
   ![output-1](ls wr-1 4.png)
   ![output-2](ls wr-2 4.png)
+
+![ls wr-1 4](https://user-images.githubusercontent.com/69143816/90307759-0f1bf400-def7-11ea-99c0-437b1e6d292d.png)
+![ls wr-2 4](https://user-images.githubusercontent.com/69143816/90307760-10e5b780-def7-11ea-9dc5-e254cf7adbf8.png)
