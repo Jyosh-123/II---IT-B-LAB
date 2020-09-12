@@ -30,8 +30,14 @@ the sorted part at the left end and the unsorted part at the right end. Initiall
           3.though it consists of repeating elements we get an array which is in sorted array .hence the output is a={1,2,3,4,5,5}
           
           
-      ![testimage](selectionsort1)
-      ![testimage](selectionsort2)
-      ![testimage](selectionsort3)
+   ![testimage](selectionsort1)
+   ![testimage](selectionsort2)
+   ![testimage](selectionsort3)
+      
+      
+![selectionsort1](https://user-images.githubusercontent.com/69143816/92987262-7d47dc80-f4de-11ea-95a1-92d2bdbc59fb.png)
+![selectionsort2](https://user-images.githubusercontent.com/69143816/92987263-8042cd00-f4de-11ea-9e58-c72429b052e8.png)
+![selectionsort3](https://user-images.githubusercontent.com/69143816/92987266-8638ae00-f4de-11ea-8e39-680a18283166.png)
+
               
               
