@@ -28,7 +28,9 @@
         condition it will go through the same procedure as above.
       3.So we will get the output array in sorted array.
       
-     ![output1](insertionsort1)
-     ![output2](insertionsort2)
-     ![output3](insertionsort3)
+      
+      
+  ![output1](insertionsort1)
+  ![output2](insertionsort2)
+  ![output3](insertionsort3)
      
