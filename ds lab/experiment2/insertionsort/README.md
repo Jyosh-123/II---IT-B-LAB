@@ -33,4 +33,8 @@
   ![output1](insertionsort1)
   ![output2](insertionsort2)
   ![output3](insertionsort3)
-     
+  
+![insertionsort1](https://user-images.githubusercontent.com/69143816/93667969-355d2280-faa7-11ea-9488-0da38bce5ee3.png)
+![insertionsort2](https://user-images.githubusercontent.com/69143816/93667973-38581300-faa7-11ea-8d41-37e81c43446f.png)
+![insertionsort3](https://user-images.githubusercontent.com/69143816/93667979-3db55d80-faa7-11ea-9253-3cf606e6f101.png)
+  
