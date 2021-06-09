@@ -1,7 +1,6 @@
 ## FCFS (First Come First Serve)
 
-# AIM: Write a C program to implement the various process scheduling mechanisms such as FCFS
-scheduling.
+# AIM: Write a C program to implement the various process scheduling mechanisms such as FCFS scheduling.
 
 # ALGORITHM:
 
