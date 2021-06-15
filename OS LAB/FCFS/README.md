@@ -15,3 +15,7 @@ b. Turnaround time for Process(n)= waiting time of Process(n)+ Burst time for pr
 a. Average waiting time = Total waiting Time / Number of process
 b. Average Turnaround time = Total Turnaround Time / Number of process
 7: Stop the process
+ 
+ ## OUTPUT:
+ 
+ ![FCFS](https://user-images.githubusercontent.com/69143816/122021820-ad146f80-cde3-11eb-876f-dcb5be923f05.jpg)
